@@ -1,0 +1,7 @@
+{
+  "submit_button": "确定",
+  "select_table": "选择表格",
+  "select_table_placeholder": "请选择一个要操作的表格",
+  "select_target_field": "目标字段",
+  "select_target_field_placeholder": "请选择目标字段"
+}

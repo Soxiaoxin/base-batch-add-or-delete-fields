@@ -1,0 +1,7 @@
+{
+  "submit_button": "Confirm",
+  "select_table": "Select Table",
+  "select_table_placeholder": "Please Select A Table To Operate On",
+  "select_target_field": "Target Field",
+  "select_target_field_placeholder": "Please Select Target Field"
+}

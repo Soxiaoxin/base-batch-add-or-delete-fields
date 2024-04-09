@@ -1,0 +1,7 @@
+{
+  "submit_button": "確認",
+  "select_table": "テーブルの選択",
+  "select_table_placeholder": "操作するテーブルを選択してください",
+  "select_target_field": "ターゲットフィールド",
+  "select_target_field_placeholder": "対象のフィールドを選択してください"
+}
