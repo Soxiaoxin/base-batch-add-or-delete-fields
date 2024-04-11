@@ -10,3 +10,9 @@
   color: #d63384;
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
+
+h1 {
+  font-weight: bold;
+  margin: 20px 0;
+  font-size: large;
+}
